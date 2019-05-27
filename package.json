@@ -4,7 +4,8 @@
   "description": "A cool graph DB",
   "main": "app.js",
   "scripts": {
-    "test": "jest ."
+    "test": "jest .",
+    "start": "node app.js"
   },
   "author": "",
   "license": "ISC",
